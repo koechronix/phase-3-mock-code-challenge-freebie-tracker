@@ -141,7 +141,7 @@ is "freebie".
 Use `rake console` and check that these methods work before proceeding. For
 example, you should be able to call `Dev.first.companies` and see a list of the
 companies for the first dev in the database based on your seed data; and
-`Freebie.first.dev` should return the dev for the first freebie in the database.
+` ` should return the dev for the first freebie in the database.
 
 ### Aggregate and Association Methods
 
